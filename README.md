@@ -1,13 +1,14 @@
 # spotify_new_song_popularity_prediction
 In this machine learning prediction model, we can calculate how popular a newly uploaded song on Spotify is likely to be.
 
-Spotify Şarkı Popülerliği Tahminleyici
-Bu proje, son 3 yılda Spotify Top 50 listesine girmiş sanatçıların şarkıları üzerinde yapılan veri analizleri ve CatBoost modeli kullanılarak Spotify'da yeni yüklenen şarkıların popülerlik seviyelerini tahmin etmeyi amaçlamaktadır.
+#Spotify Song Popularity Predictor
+This project aims to predict the popularity levels of newly uploaded songs on Spotify using data analysis performed on songs by artists who have entered the Spotify Top 50 list in the last 3 years and a CatBoost model.
 
-Proje Hakkında
-Spotify’ın geniş müzik veritabanından elde edilen veriler, şarkıların çeşitli müziksel özelliklerini (tempo, enerji, dans edilebilirlik vb.) içermektedir. Bu proje, bu özellikleri kullanarak, bir şarkının Spotify'daki popülerlik puanını tahmin eden bir makine öğrenimi modeli geliştirmiştir.
+##About The Project
+Data obtained from Spotify's extensive music database includes various musical characteristics of songs (such as tempo, energy, danceability, etc.). This project has developed a machine learning model that uses these characteristics to predict the popularity score of a song on Spotify.
 
-Anahtar Özellikler
-Veri Seti: Son 3 yılda Spotify Top 50 listesine giren sanatçıların şarkıları.
+###Key Features
+Data Set: Songs by artists who have been in the Spotify Top 50 list in the last 3 years.
 Model: CatBoost.
-Hedef: Spotify'da yeni yüklenen şarkıların popülerlik puanlarını tahmin etmek.
+Objective: To predict the popularity scores of newly uploaded songs on Spotify.
+
