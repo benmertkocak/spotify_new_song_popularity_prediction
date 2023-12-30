@@ -8,7 +8,7 @@ This project aims to predict the popularity levels of newly uploaded songs on Sp
 Data obtained from Spotify's extensive music database includes various musical characteristics of songs (such as tempo, energy, danceability, etc.). This project has developed a machine learning model that uses these characteristics to predict the popularity score of a song on Spotify.
 
 #### Key Features
-Data Set: Songs by artists who have been in the Spotify Top 50 list in the last 3 years.
-Model: CatBoost.
+Data Set: Songs by artists who have been in the Spotify Top 50 list in the last 3 years.  
+Model: CatBoost.  
 Objective: To predict the popularity scores of newly uploaded songs on Spotify.
 
